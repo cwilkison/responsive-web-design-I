@@ -173,14 +173,19 @@ h1, h2, h3, h4, h5 {
     }
 
     nav a{
-        border-top: 1px solid black;
         border-bottom: 1px solid black;
+        margin: 0 -15%;
+        color:gray;
+    }
+
+    #contact{
+      border-top: 1px solid black;
     }
 
     .logo{
         padding-bottom:2%;
-        margin-left:130px; 
-    }
+        margin-left:130px;
+=    }
     
     .text{
         font-size:50px;
